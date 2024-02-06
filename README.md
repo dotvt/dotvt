@@ -6,10 +6,10 @@ Les ressources publiées ici concerneront principalement les modules suivants : 
 
 ### Mon expertise 
 ```
-- Sentinel
-- Microsoft Defender XDR
-  - Microsoft Defender for Endpoint
-  - Microsoft Defender for Office
-  - Microsoft Defender for Cloud Apps
-- Entra Id
+# Sentinel
+# Microsoft Defender XDR
+    Microsoft Defender for Endpoint
+    Microsoft Defender for Office
+    Microsoft Defender for Cloud Apps
+# Entra Id
 ```
